@@ -19,11 +19,11 @@ const projects = [
     link: "https://myntra-frontend-kappa.vercel.app/",
   },
   {
-    name: "Video Conferencing Web App(Zoom)",
-    year: "Full Stack",
+    name: "Cab-Booking Web App(Uber)",
+    year: "Full Stack (Mobile Responsive)",
     align: "right",
-    image: "/images/website-img-3.jpg",
-    link: "#",
+    image: "/images/uber.png",
+    link: "https://mega-project-q48j.vercel.app/",
   },
   {
     name: "Portfolio Website",

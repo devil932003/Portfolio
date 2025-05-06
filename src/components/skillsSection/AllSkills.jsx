@@ -12,6 +12,7 @@ import { fadeIn } from "../../framerMotion/variants";
 import { GrMysql } from "react-icons/gr";
 import { SiExpress } from "react-icons/si";
 import { BiLogoMongodb } from "react-icons/bi";
+import { SiNextdotjs } from "react-icons/si";
 
 const skills = [
   {

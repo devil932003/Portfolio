@@ -5,30 +5,37 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
+    name: "DEVILAI",
+    year: "AI Career Coach | Next.js, Prisma, NeonDB, Inngest, Gemini AI",
+    align: "right",
+    image: "/images/banner.jpeg",
+    link: "https://devil-ai-career-coach.vercel.app/",
+  },
+  {
     name: "Pokedex",
     year: "ReactJS,RestAPI",
-    align: "right",
+    align: "left",
     image: "/images/Pokedex.png",
     link: "https://pokedex-mauve-two.vercel.app/",
   },
   {
     name: "E-Commerce(Myntra)",
     year: "ReactJS,RestAPI",
-    align: "left",
+    align: "right",
     image: "/images/myntra.jpg",
     link: "https://myntra-frontend-kappa.vercel.app/",
   },
   {
     name: "Cab-Booking Web App(Uber)",
     year: "Full Stack (Mobile Responsive)",
-    align: "right",
+    align: "left",
     image: "/images/uber.png",
     link: "https://mega-project-q48j.vercel.app/",
   },
   {
     name: "Portfolio Website",
     year: "React,TailwindCSS,Framer Motion",
-    align: "left",
+    align: "right",
     image: "/images/portfolio.jpg",
     link: "#",
   },

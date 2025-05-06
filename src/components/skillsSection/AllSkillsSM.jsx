@@ -2,7 +2,7 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
 import { FaReact } from "react-icons/fa";
-import { SiRedux } from "react-icons/si";
+import { SiNextdotjs, SiRedux } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
@@ -10,6 +10,9 @@ import { TbBrandNodejs } from "react-icons/tb";
 import { BiLogoMongodb } from "react-icons/bi";
 import { GrMysql } from "react-icons/gr";
 import { SiExpress } from "react-icons/si";
+import { BiLogoPostgresql } from "react-icons/bi";
+import { SiPrisma } from "react-icons/si";
+
 
 const skills = [
   {
@@ -33,24 +36,32 @@ const skills = [
     icon: FaReact,
   },
   {
-    skill: "Redux",
-    icon: SiRedux,
+    skill: "NextJS",
+    icon: SiNextdotjs,
   },
   {
     skill: "MONGODB",
     icon: BiLogoMongodb,
   },
   {
+    skill: "NeonDB",
+    icon: BiLogoPostgresql,
+  },
+  {
     skill: "ExpressJS",
     icon: SiExpress,
   },
   {
-    skill: "MySQL",
-    icon: GrMysql,
+    skill: "Prisma",
+    icon: SiPrisma,
   },
   {
     skill: "TailwindCSS",
     icon: RiTailwindCssFill,
+  },
+  {
+    skill: "Redux",
+    icon: SiRedux,
   },
 ];
 

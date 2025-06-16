@@ -31,8 +31,8 @@ const AboutMeText = () => {
           className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center hover:bg-orange transition-all duration-500 cursor-pointer"
           onClick={() => {
             const link = document.createElement("a");
-            link.href = "/images/resume.pdf"; // Path to your resume file
-            link.download = "resume.pdf"; // Name of the downloaded file
+            link.href = "/images/Devansh Mishra Resume.pdf"; // Path to your resume file
+            link.download = "Devansh Mishra Resume.pdf"; // Name of the downloaded file
             link.click();
           }}
         >

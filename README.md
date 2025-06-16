@@ -1,17 +1,39 @@
-# React + Vite
+# 🚀 React + Vite Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh  
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh  
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules.  
-Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A modern, responsive developer portfolio built using **React** and **Vite**. This project demonstrates a clean, fast, and maintainable architecture for showcasing personal projects, skills, and contact information. It includes ESLint rules, modular component structure, and full deployment support.
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live demo](https://portfolio-three-swart-12.vercel.app/)
+👉 [Click here to view the live site](https://portfolio-three-swart-12.vercel.app/)
+
+---
+
+## ✨ Features
+
+- ⚡ **Lightning-fast build and dev server** powered by Vite
+- 🎨 **Fully responsive design** with modern UI components
+- 🧱 **Component-based architecture** using React
+- 🧑‍💼 **Modular sections**: About, Projects, Skills, Contact, etc.
+- 📨 **Contact form with Nodemailer** integration (real-time messaging)
+- 🧪 **ESLint** rules to enforce clean and consistent code
+- 🚀 **CI/CD** enabled via GitHub Actions and GitHub Pages/Vercel
+- 💡 **SEO Optimized** with meta tags and Lighthouse-perfect performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite
+- **Styling**: Tailwind CSS / CSS Modules (adjust based on your setup)
+- **Form Handling**: Nodemailer, EmailJS, or API route (depending on implementation)
+- **Deployment**: Vercel / GitHub Pages
+- **Tooling**: ESLint, Prettier, Git, GitHub, VS Code
+
+---
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/35508daa-c149-424a-a40e-724cba64ca77)
+![image](https://github.com/user-attachments/assets/b5017c8b-c920-4605-9734-9b32a0040794)
+
+
+

@@ -5,6 +5,13 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
+    name: "STREAMIFY",
+    year: "Social_Media(Chat+Video_Calling APP) | React.js, MongoDb, ExpressJS,Node.js",
+    align: "left",
+    image: "/images/streamify.png",
+    link: "https://streamify-vsk2.onrender.com/",
+  },
+  {
     name: "DEVILAI",
     year: "AI Career Coach | Next.js, Prisma, NeonDB, Inngest, Gemini AI",
     align: "right",

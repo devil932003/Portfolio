@@ -5,14 +5,13 @@ const AboutMeText = () => {
     <div className="flex flex-col md:items-start sm:items-center md:text-left sm:text-center">
       <h2 className="text-6xl text-cyan mb-10">About Me</h2>
       <p>
-        Pre-final year Computer Science student with a strong foundation in Data Structures and Algorithms (DSA)
-        and analytical thinking. Skilled in competitive programming with expertise in C++, JavaScript, and algorithm
-        optimization. Experienced in full-stack web development using the MERN stack (MongoDB, Express.js,React.js,
-        Node.js). Proficient in developing and integrating RESTful APIs and managing back-end services.
-        Knowledge of Agile methodologies and software development life cycle (SDLC).
-        
-        Dedicated to leveraging strong coding skills to drive digital transformation and contribute to company’s
-        mission of delivering innovative and impactful solutions.
+       I am a final year Computer Science student with a strong foundation in Data Structures and Algorithms and analytical
+thinking. I have worked on several real-world projects using technologies like React.js, Node.js, Express.js, and
+databases like MongoDB and PostgreSQL. My recent work includes building AI-powered career coaching platform,
+where I used Gemini AI, REST APIs, and tools like inngest and prisma. Alongside development, I have
+solved over 200 data structure and algorithm problems on platforms like LeetCode, which has helped me sharpen my
+coding and logical thinking I'm currently looking for opportunities internships or entry-level roles where I can learn
+from real-world challenges, contribute to a team, and grow as a developer.  
       </p>
       <div className="flex gap-4 mt-10">
         <button className="border border-orange rounded-full py-2 px-4 text-lg flex gap-2 items-center hover:bg-orange transition-all duration-500 cursor-pointer">
